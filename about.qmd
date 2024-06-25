@@ -5,5 +5,5 @@ format: html
 
 ## About
 
-Shayna Sura
+Shayna Sura is a postdoc.
 
