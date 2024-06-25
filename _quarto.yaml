@@ -8,7 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - text: My Work
+        menu: 
+          - text: Mentoring
+      - icon: github
+        href: https://github.com/shaynasura/shaynasura.github.io
+          
+      
 
 format:
   html:
