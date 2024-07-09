@@ -1,9 +1,39 @@
 ---
-title: "about"
+title: "Shayna Sura"
+image: images/ShaynaSura_small.jpeg
 format: html
+about:
+  template: jolla
 ---
 
-## About
+# About
 
-Shayna Sura is a postdoc.
+Shayna Sura is currently a postdoctoral researcher for the Gulf Ecosystem Initiative at NCEAS (National Center for Ecological Analysis and Synthesis) affiliated with the University of California Santa Barbara (UCSB).
 
+
+## Research Interests
+
+Highlighting just one <span class="chartreuse-text">word</span> in a sentence.
+
+
+## Education
+
+ <!-- html format for applying formatting -->
+<p class="chartreuse-text">Testing text to change color</p>
+
+<!-- # qmd format for applying formatting -->
+[B.S. 2011. Environmental Science. University of Notre Dame.]{.chartreuse-text}
+
+
+:::{.chartreuse-text}
+ All of this text
+ should end up
+ in the color of my choosing.
+
+Does it work?
+:::
+
+
+:::{.callout-note}
+## this is my note title
+:::

@@ -2,22 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about",
+    "title": "Shayna Sura",
     "section": "",
-    "text": "Shayna Sura is a postdoc."
+    "text": "Shayna Sura is currently a postdoctoral researcher for the Gulf Ecosystem Initiative at NCEAS (National Center for Ecological Analysis and Synthesis) affiliated with the University of California Santa Barbara (UCSB).\n\n\nHighlighting just one word in a sentence.\n\n\n\n\n\nTesting text to change color\n\n\nB.S. 2011. Environmental Science. University of Notre Dame.\n\nAll of this text should end up in the color of my choosing.\nDoes it work?\n\n\n\n\n\n\n\nthis is my note title"
   },
   {
     "objectID": "about.html#about",
     "href": "about.html#about",
-    "title": "about",
+    "title": "Shayna Sura",
     "section": "",
     "text": "Shayna Sura is a postdoc."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "home",
+    "title": "Shayna Sura",
     "section": "",
     "text": "Testing this with a new change."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Shayna Sura",
+    "section": "",
+    "text": "Testing text to change color\n\n\nB.S. 2011. Environmental Science. University of Notre Dame.\n\nAll of this text should end up in the color of my choosing.\nDoes it work?\n\n\n\n\n\n\n\nthis is my note title"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Shayna Sura",
+    "section": "",
+    "text": "Highlighting just one word in a sentence."
   }
 ]

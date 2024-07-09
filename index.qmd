@@ -1,6 +1,11 @@
 ---
-title: "home"
+# title: "home"
+title: "Shayna Sura"
+image: images/ShaynaSura_small.jpeg
 format: html
+about:
+  template: jolla
+
 ---
 
 Testing this with a new change.

@@ -12,7 +12,9 @@ website:
         text: About
       - text: My Work
         menu: 
-          - text: Mentoring
+          - text: PhD
+          - text: Dauphin Island Sea Lab
+          - text: Gulf Ecosystem Initiative
       - icon: github
         href: https://github.com/shaynasura/shaynasura.github.io
           
@@ -20,9 +22,14 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - styles.scss
+    # theme: cosmo
+    # css: styles.css
+    mainfont: Tajawal
     toc: true
+    page-layout: full
 
 editor: visual
 
